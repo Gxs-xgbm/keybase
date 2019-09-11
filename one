@@ -1,0 +1,69 @@
+
+Z 2019-09-11 17:29:21
+### Keybase proof
+
+I hereby claim:
+
+  * I am gxs-xgbm on github.
+  * I am yanquan (https://keybase.io/yanquan) on keybase.
+  * I have a public key ASCPMe5AF0FOBwTfmf57MkWu9P9dkswm-CGz49H5J5DDswo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208f31ee4017414e0704df99fe7b3245aef4ff5d92cc26f821b3e3d1f92790c3b30a",
+      "host": "keybase.io",
+      "kid": "01208f31ee4017414e0704df99fe7b3245aef4ff5d92cc26f821b3e3d1f92790c3b30a",
+      "uid": "90dcee9325f18a9c51ac19b7bf88a719",
+      "username": "yanquan"
+    },
+    "merkle_root": {
+      "ctime": 1568193948,
+      "hash": "e82a6a36aebdb919829c7a2d0a3b3458fc527af0e842954af0f9b8fe300631d97500c81de187874ae618b6bdbee2f8f3f30f3783dc3b36d793e3d52501de945a",
+      "hash_meta": "fd26bb2c027e0535c6abebd642ca9f054caea7add4ba994c2686410b94ba32f7",
+      "seqno": 6658377
+    },
+    "service": {
+      "entropy": "aR4GI8FHudPLXSH2e7DQuPHX",
+      "name": "github",
+      "username": "gxs-xgbm"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568194095,
+  "expire_in": 504576000,
+  "prev": "f5e6edb719a3b93534752ab36dc31a86f5ece17d88d237f2bfc775596becfe83",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASCPMe5AF0FOBwTfmf57MkWu9P9dkswm-CGz49H5J5DDswo](https://keybase.io/yanquan), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjzHuQBdBTgcE35n+ezJFrvT/XZLMJvghs+PR+SeQw7MKp3BheWxvYWTESpcCBMQg9ebttxmjuTU0dSqzbcMahvXs4X2I0jfyv8d1WWvs/oPEIJZGfWjLkmg/gLWUovS+ZM2rteMZySejhv10OY8+XbTQAgHCo3NpZ8RA74c8B35nbYOoM5mFJoXLBze8y4t+G99Fbinf42i8yw3uaKolzaNBCR4WeRTQFHpF+1eSDLATuro2VzsOLwq1BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICxVy30ouyt7RjRFd9MH+B3rvuh8LxRcsvgsByuzn0UFo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/yanquan
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id yanquan
+```
